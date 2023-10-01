@@ -2,7 +2,7 @@
 
 Check it out - https://chatosphere.vercel.app
 
-A real-time chat application built using Next.js 13 with App Router, Redis as a database, and Pusher.js for real-time updates. This project showcases the power of modern web technologies to create a seamless and responsive chat experience with user authentication provided by NextAuth.js using Google as the identity provider.
+A real-time chat application built using Next.js 13 with App Router, Redis as a database, and Pusher.js for real-time updates. This project showcases the power of modern web technologies to create a seamless and responsive chat experience with user authentication provided by NextAuth.js using Google as the identity provider. The App is done with strict typing using typescript and zod validators to follow the best practices in writing maintainable and scalable code.
 
 ## Table of Contents
 
