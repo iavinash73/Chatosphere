@@ -44,23 +44,26 @@ Follow these steps to get the chat application up and running on your local mach
 2. Add these env variables:
 
    env variable:
-   UPSTASH_REDIS_REST_URL,
-   UPSTASH_REDIS_REST_TOKEN,
-   NEXTAUTH_SECRET,
-   GOOGLE_CLIENT_ID,
-   GOOGLE_CLIENT_SECRET,
-   PUSHER_APP_ID,
-   NEXT_PUBLIC_PUSHER_APP_KEY.
-   PUSHER_APP_SECRET
+   ```bash
+   UPSTASH_REDIS_REST_URL = ,
+   UPSTASH_REDIS_REST_TOKEN = ,
+   NEXTAUTH_SECRET = ,
+   GOOGLE_CLIENT_ID = ,
+   GOOGLE_CLIENT_SECRET = ,
+   PUSHER_APP_ID = ,
+   NEXT_PUBLIC_PUSHER_APP_KEY = ,
+   PUSHER_APP_SECRET = 
 
-3. Install dependencies:
+4. Install dependencies:
     
    ```bash
    npm i
 
-4. Run Chatosphere in your local machine:
+5. Run Chatosphere in your local machine:
 
    ```bash
    npm run dev
+
+6. Access the application in your web browser at `http://localhost:3000`
 
 
