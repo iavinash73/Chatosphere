@@ -1,6 +1,6 @@
 # Chatosphere - Real-Time Chat Application
 
-check it out - https://chatosphere.vercel.app
+Check it out - https://chatosphere.vercel.app
 
 A real-time chat application built using Next.js 13 with App Router, Redis as a database, and Pusher.js for real-time updates. This project showcases the power of modern web technologies to create a seamless and responsive chat experience with user authentication provided by NextAuth.js using Google as the identity provider.
 
@@ -52,4 +52,14 @@ Follow these steps to get the chat application up and running on your local mach
    NEXT_PUBLIC_PUSHER_APP_KEY.
    PUSHER_APP_SECRET
 
-  
+3. Install dependencies:
+    
+   ```bash
+   npm i
+
+4. Run Chatosphere in your local machine:
+
+   ```bash
+   npm run dev
+
+
