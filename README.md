@@ -29,6 +29,7 @@ A real-time chat application built using Next.js 13 with App Router, Redis as a 
 - [Google Identity Provider](https://developers.google.com/identity/protocols/oauth2): Use Google as the identity provider for user authentication.
 - [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework for creating stylish and responsive designs.
 - [Zod](https://zod.dev//): A powerful and versatile TypeScript schema validation library for ensuring data integrity.
+- [Vercel](https://vercel.com/home//): Cloud platform that streamlines the deployment process and faciltates deployment of scalable applications.
   
 
 ## Getting Started
